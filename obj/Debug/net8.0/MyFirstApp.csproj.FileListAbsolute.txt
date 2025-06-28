@@ -1,0 +1,14 @@
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/bin/Debug/net8.0/MyFirstApp
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/bin/Debug/net8.0/MyFirstApp.deps.json
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/bin/Debug/net8.0/MyFirstApp.runtimeconfig.json
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/bin/Debug/net8.0/MyFirstApp.dll
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/bin/Debug/net8.0/MyFirstApp.pdb
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/obj/Debug/net8.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfoInputs.cache
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfo.cs
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/obj/Debug/net8.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/obj/Debug/net8.0/MyFirstApp.dll
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/obj/Debug/net8.0/refint/MyFirstApp.dll
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/obj/Debug/net8.0/MyFirstApp.pdb
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/obj/Debug/net8.0/MyFirstApp.genruntimeconfig.cache
+/home/thezodiac/Music/CSharpStuff/MyFirstApp/obj/Debug/net8.0/ref/MyFirstApp.dll
